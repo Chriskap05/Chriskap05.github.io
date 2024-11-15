@@ -2,7 +2,7 @@
 
 This is the repository where I showcase my work and projects. You can visit my personal page to explore my work:
 
-[My Page](https://chriskap05.github.io)
+# [My Page](https://chriskap05.github.io)
 
 Feel free to check out my repositories and contributions.
 
